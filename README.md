@@ -1,0 +1,1 @@
+This repo contains a bitset class written in C++. Everything is included in `bitset.hpp`.
